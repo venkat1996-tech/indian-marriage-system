@@ -1,6 +1,4 @@
-SELECT * FROM indian_marriage_statios.marriage_data_india;
-use indian_marriage_statios;
-select*from marriage_data_india;
+
 -- Queries 1: retrieve  love and arriange marriages counting
 
 select
